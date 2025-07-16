@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = `http://localhost:5000/api/jobs`;
+const API = `https://distributed-job-scheduler-2-backend.onrender.com/api/jobs`;
 
 export const getJobs = () => axios.get(API).then((res) => res.data);
 export const getJobById = (id) =>
