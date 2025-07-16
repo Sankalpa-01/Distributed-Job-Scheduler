@@ -2,8 +2,6 @@
 
 A powerful and extensible MERN-based job scheduling system that allows users to schedule and manage jobs with dependency handling, retry policies, priority levels, and simulated distributed worker assignment.
 
-![Preview](./preview.png) <!-- Optional: Add your screenshot image named preview.png -->
-
 ---
 
 ## 🚀 Features
