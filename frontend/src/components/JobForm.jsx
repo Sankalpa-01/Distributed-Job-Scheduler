@@ -8,7 +8,7 @@ export default function JobForm() {
     schedule: "",
     command: "",
     priority: "Medium",
-    retryPolicy: 3,
+    retryPolicy: "",
     dependencies: [],
   });
 
